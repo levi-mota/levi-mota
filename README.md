@@ -52,18 +52,13 @@ Foi quando decidi estudar **Python por conta própria**, focado em automações 
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats & Métricas</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=levi-mota&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi-mota&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </p>
-
-  <br>
-
   <h3>📫 Vamos trocar uma ideia?</h3>
   <p>
     <a href="https://www.linkedin.com/in/levimota1/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://github.com/levi-mota" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
   </p>
 </div>
